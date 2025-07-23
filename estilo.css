@@ -8,3 +8,20 @@ p{
     color: rgb(0, 0, 0);
     font-size: 30px
 }
+#quadrado{
+    height: 100px; /* altura */
+    width: 100px; /* largura */
+    background-color: black;
+    border-radius: 100px;
+    margin: 0 auto; /* espaçamento para a esquerda */
+}
+#faixa{
+    height: 200px;
+    width:auto;
+    border: 1px solid black; /* espessura, tipo e cor */ 
+
+    margin-left: 50px;
+
+
+    
+}
